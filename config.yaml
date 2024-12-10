@@ -1,0 +1,10 @@
+path: 'C:/Users/nicko/Downloads/manzanas/datasets'
+#path: /content/datasets   # Google Colab path
+train: train/images  
+val: validate/images
+
+names:
+  0: manzana dañada
+  1: manzana roja fresca
+  2: manzana verde fresca
+  3: manzana podrida
